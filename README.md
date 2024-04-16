@@ -1,2 +1,2 @@
 # Data-Visualization-with-PowerBI
-Harness the potential of Power BI for dynamic data storytelling. Explore visually stunning reports and dashboards, crafted for actionable insights. From basic visualizations to advanced DAX techniques.
+Learning and mastering the art of using Power BI to showcase data effectively. Importing data into Power BI, clean and transform it for visualization, and create visually appealing and informative reports. I'll be showcasing the skills to transform raw data into compelling narratives that resonate with the audience.
